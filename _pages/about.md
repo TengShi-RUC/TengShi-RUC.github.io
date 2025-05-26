@@ -16,7 +16,7 @@ My research interests lie in recommender systems, information retrieval, and lar
 
 - **UniSAR: Modeling User Transition Behaviors between Search and Recommendation**
   
-  **Teng Shi**, Zihua Si, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Dewei Leng, Yanan Niu, Yang Song
+  **Teng Shi**, Zihua Si, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Dewei Leng, Yanan Niu, Yang Song \|
   (SIGIR 2024, **CCF A**) \| [Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657811)
   
 - **Retrieval Augmented Generation with Collaborative Filtering for Personalized Text Generation**
