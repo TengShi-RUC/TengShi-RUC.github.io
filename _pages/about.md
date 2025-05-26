@@ -66,7 +66,7 @@ My research interests lie in recommender systems, information retrieval, and lar
 
 # Educations
 - *2022.09 - Present*, PhD Candidate. Gaoling School of Artificial Intelligence, Renmin University of China.
-- *2018.09 - 2022.06*, Bachelor of Computer Science. School of Computer Science. School of Management, Beijing Jiaotong University. 
+- *2018.09 - 2022.06*, Bachelor of Computer Science. School of Computer Science, Beijing Jiaotong University. 
 
 # Internships
 - *2025.04 - Present*, Research Intern, Lenovo AI Lab
