@@ -11,3 +11,4 @@ I am Teng Shi, a third-year Ph.D. student at the Gaoling School of Artificial In
 My research interests lie in recommender systems, information retrieval, and large language models (LLMs), with a particular focus on the joint modeling of search and recommendation. I am broadly interested in building intelligent systems that understand user intent and provide personalized, context-aware information access.
 
 
+# Publications
