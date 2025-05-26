@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "UniSAR: Modeling User Transition Behaviors between Search and Recommendation"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
