@@ -28,16 +28,16 @@ My research interests lie in recommender systems, information retrieval, and lar
   
   Xiao Zhang*, **Teng Shi***, Jun Xu, Zhenhua Dong, Jirong Wen (*Co-first authors (student)*) \|
   (TKDE 2024, **CCF A**) \| [Paper](https://ieeexplore.ieee.org/abstract/document/10598228)
-  
-- **Unified Generative Search and Recommendation**
-  
-  **Teng Shi**, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Yang Song, Enyun Yu \|
-  (Arxiv) \| [Paper](https://arxiv.org/abs/2504.05730)
 
 - **SAQRec: Aligning Recommender Systems to User Satisfaction via Questionnaire Feedback**
   
   Kepu Zhang, **Teng Shi**, Sunhao Dai, Xiao Zhang, Yinfeng Li, Jing Lu, Xiaoxue Zang, Yang Song, Jun Xu \|
   (CIKM 2024, **CCF B**) \| [Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679643)
+  
+- **Unified Generative Search and Recommendation**
+  
+  **Teng Shi**, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Yang Song, Enyun Yu \|
+  (Arxiv) \| [Paper](https://arxiv.org/abs/2504.05730)
 
 - **QAGCF: Graph Collaborative Filtering for Q&A Recommendation**
   
