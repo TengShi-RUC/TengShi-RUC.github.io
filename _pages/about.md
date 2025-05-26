@@ -17,13 +17,11 @@ My research interests lie in recommender systems, information retrieval, and lar
 - **UniSAR: Modeling User Transition Behaviors between Search and Recommendation**
   
   **Teng Shi**, Zihua Si, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Dewei Leng, Yanan Niu, Yang Song
-  
   (SIGIR 2024, **CCF A**) \| [Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657811)
   
 - **Retrieval Augmented Generation with Collaborative Filtering for Personalized Text Generation**
   
   **Teng Shi**, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Yang Song, Han Li
-  
   (SIGIR 2025, **CCF A**) \| [Paper](https://arxiv.org/abs/2504.05731)
 
 - **Model-Agnostic Causal Embedding Learning for Counterfactually Group-Fair Recommendation**
@@ -64,8 +62,7 @@ My research interests lie in recommender systems, information retrieval, and lar
 
 - **A survey of controllable learning: Methods and applications in information retrieval**
   
-  Chenglei Shen*, Xiao Zhang, **Teng Shi**, Changshuo Zhang, Guofu Xie, Jun Xu
-  
+  Chenglei Shen, Xiao Zhang, **Teng Shi**, Changshuo Zhang, Guofu Xie, Jun Xu
   (Arxiv) \| [Paper](https://arxiv.org/abs/2407.06083)
 
 - **Think before recommend: Unleashing the latent reasoning power for sequential recommendation**
