@@ -63,4 +63,13 @@ My research interests lie in recommender systems, information retrieval, and lar
   
   Jiakai Tang, Sunhao Dai, **Teng Shi**, Jun Xu, Xu Chen, Wen Chen, Wu Jian, Yuning Jiang \|
   (Arxiv) \| [Paper](https://arxiv.org/abs/2503.22675)
-  
+
+# Educations
+- *2022.09 - Present*, PhD Candidate. Gaoling School of Artificial Intelligence, Renmin University of China.
+- *2018.09 - 2022.06*, Bachelor of Computer Science. School of Computer Science. School of Management, Beijing Jiaotong University. 
+
+# Internships
+- *2025.04 - Present*, Research Intern, Lenovo AI Lab
+- *2023.08 - 2025.04*, Research Intern, Kuaishou Technology
+- *2022.03 - 2023.03*, Research Intern, JD.com
+
