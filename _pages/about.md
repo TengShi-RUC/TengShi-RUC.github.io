@@ -12,7 +12,7 @@ My research interests lie in recommender systems, information retrieval, and lar
 
 
 # Publications
-(* Equal Contribution)
+(\* denotes Equal Contribution)
 
 - **UniSAR: Modeling User Transition Behaviors between Search and Recommendation**
   
@@ -26,7 +26,7 @@ My research interests lie in recommender systems, information retrieval, and lar
 
 - **Model-Agnostic Causal Embedding Learning for Counterfactually Group-Fair Recommendation**
   
-  Xiao Zhang*, **Teng Shi***, Jun Xu, Zhenhua Dong, Jirong Wen (*Co-first authors (student)*) \|
+  Xiao Zhang\*, **Teng Shi\***, Jun Xu, Zhenhua Dong, Jirong Wen (*Co-first authors (student)*) \|
   (TKDE 2024, **CCF A**) \| [Paper](https://ieeexplore.ieee.org/abstract/document/10598228)
 
 - **SAQRec: Aligning Recommender Systems to User Satisfaction via Questionnaire Feedback**
@@ -51,7 +51,7 @@ My research interests lie in recommender systems, information retrieval, and lar
 
 - **Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation**
   
-  Changshuo Zhang*, **Teng Shi***, Xiao Zhang, Qi Liu, Ruobing Xie, Jun Xu, Jirong Wen \|
+  Changshuo Zhang\*, **Teng Shi\***, Xiao Zhang, Qi Liu, Ruobing Xie, Jun Xu, Jirong Wen \|
   (Arxiv) \| [Paper](https://arxiv.org/abs/2408.08209)
 
 - **A survey of controllable learning: Methods and applications in information retrieval**
