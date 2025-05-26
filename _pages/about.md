@@ -14,12 +14,20 @@ My research interests lie in recommender systems, information retrieval, and lar
 # Publications
 
 - **UniSAR: Modeling User Transition Behaviors between Search and Recommendation**
+  
   **Teng Shi**, Zihua Si, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Kai Zheng, Dewei Leng, Yanan Niu, Yang Song
-  (SIGIR 2024, **CCF A**) \| [Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657811) 
+  
+  (SIGIR 2024, **CCF A**) \| [Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657811)
+  
 - **Retrieval Augmented Generation with Collaborative Filtering for Personalized Text Generation**
+  
   **Teng Shi**, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Kai Zheng, Yang Song, Han Li
+  
   (SIGIR 2025, **CCF A**) \| [Paper](https://arxiv.org/abs/2504.05731)
+  
 - **Unified Generative Search and Recommendation**
+  
   **Teng Shi**, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Kai Zheng, Yang Song, Enyun Yu
+  
   (RecSys 2025 underview, **CCF B**) \| [Paper](https://arxiv.org/abs/2504.05730) 
   
