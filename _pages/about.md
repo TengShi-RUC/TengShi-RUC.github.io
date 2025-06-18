@@ -81,6 +81,3 @@ I welcome opportunities for collaboration or research internships. Feel free to 
 - *2025.04 - Present*, Research Intern, Lenovo AI Lab
 - *2023.08 - 2025.04*, Research Intern, Kuaishou Technology
 - *2022.03 - 2023.03*, Research Intern, JD.com
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=PHYK6njLGyNoRtNQaM0AQZoJz1T-OB52QtHYNDNOV3U&cl=ffffff&w=a"></script>
-
