@@ -69,6 +69,7 @@ I welcome opportunities for collaboration or research internships. Feel free to 
   (Arxiv) \| [Paper](https://arxiv.org/abs/2503.22675)
 
 - **Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search**
+  
   Weicong Qin, Yi Xu, Weijie Yu, **Teng Shi**, Chenglei Shen, Ming He, Jianping Fan, Xiao Zhang, Jun Xu \|
   (Arxiv) \| [Paper](https://arxiv.org/pdf/2506.14437)
 
