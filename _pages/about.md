@@ -68,6 +68,10 @@ I welcome opportunities for collaboration or research internships. Feel free to 
   Jiakai Tang, Sunhao Dai, **Teng Shi**, Jun Xu, Xu Chen, Wen Chen, Wu Jian, Yuning Jiang \|
   (Arxiv) \| [Paper](https://arxiv.org/abs/2503.22675)
 
+- **Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search**
+  Weicong Qin, Yi Xu, Weijie Yu, **Teng Shi**, Chenglei Shen, Ming He, Jianping Fan, Xiao Zhang, Jun Xu \|
+  (Arxiv) \| [Paper](https://arxiv.org/pdf/2506.14437)
+
 # Educations
 - *2022.09 - Present*, PhD Candidate. Gaoling School of Artificial Intelligence, Renmin University of China.
 - *2018.09 - 2022.06*, Bachelor of Computer Science. School of Computer Science, Beijing Jiaotong University. 
