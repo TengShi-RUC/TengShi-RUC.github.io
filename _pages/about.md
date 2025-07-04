@@ -28,6 +28,11 @@ I welcome opportunities for collaboration or research internships. Feel free to 
   **Teng Shi**, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Yang Song, Han Li \|
   (SIGIR 2025, **CCF A**) \| [Paper](https://arxiv.org/abs/2504.05731)
 
+- **GenSAR: Unifying Balanced Search and Recommendation with Generative Retrieval**
+  
+  **Teng Shi**, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Yang Song, Enyun Yu \|
+  (RecSys 2025, **CCF B**) \| [Paper](https://arxiv.org/abs/2504.05730)
+
 - **Model-Agnostic Causal Embedding Learning for Counterfactually Group-Fair Recommendation**
   
   Xiao Zhang\*, **Teng Shi**\*, Jun Xu, Zhenhua Dong, Jirong Wen (*Co-first authors (student)*) \|
@@ -37,31 +42,26 @@ I welcome opportunities for collaboration or research internships. Feel free to 
   
   Kepu Zhang, **Teng Shi**, Sunhao Dai, Xiao Zhang, Yinfeng Li, Jing Lu, Xiaoxue Zang, Yang Song, Jun Xu \|
   (CIKM 2024, **CCF B**) \| [Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679643)
-  
-- **Unified Generative Search and Recommendation**
-  
-  **Teng Shi**, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Yang Song, Enyun Yu \|
-  (Arxiv) \| [Paper](https://arxiv.org/abs/2504.05730)
 
+- **Test-Time Alignment with State Space Model for Tracking User Interest Shifts in Sequential Recommendation**
+  
+  Changshuo Zhang, Xiao Zhang, **Teng Shi**, Jun Xu, Jirong Wen \|
+  (RecSys 2025, **CCF B**) \| [Paper](https://arxiv.org/abs/2504.01489)
+
+- **A survey of controllable learning: Methods and applications in information retrieval**
+  
+  Chenglei Shen, Xiao Zhang, **Teng Shi**, Changshuo Zhang, Guofu Xie, Jun Xu \|
+  (FCS 2025, **CCF B**) \| [Paper](https://arxiv.org/abs/2407.06083)
+  
 - **QAGCF: Graph Collaborative Filtering for Q&A Recommendation**
   
   Changshuo Zhang, **Teng Shi**, Xiao Zhang, Yanping Zheng, Ruobing Xie, Qi Liu, Jun Xu, Jirong Wen \|
   (Arxiv) \| [Paper](https://arxiv.org/abs/2406.04828)
 
-- **Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation**
-  
-  Changshuo Zhang, Xiao Zhang, **Teng Shi**, Jun Xu, Jirong Wen \|
-  (Arxiv) \| [Paper](https://arxiv.org/abs/2504.01489)
-
 - **Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation**
   
   Changshuo Zhang\*, **Teng Shi**\*, Xiao Zhang, Qi Liu, Ruobing Xie, Jun Xu, Jirong Wen \|
   (Arxiv) \| [Paper](https://arxiv.org/abs/2408.08209)
-
-- **A survey of controllable learning: Methods and applications in information retrieval**
-  
-  Chenglei Shen, Xiao Zhang, **Teng Shi**, Changshuo Zhang, Guofu Xie, Jun Xu \|
-  (Arxiv) \| [Paper](https://arxiv.org/abs/2407.06083)
 
 - **Think before recommend: Unleashing the latent reasoning power for sequential recommendation**
   
