@@ -33,6 +33,11 @@ I welcome opportunities for collaboration or research internships. Feel free to 
   **Teng Shi**, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Yang Song, Enyun Yu \|
   (RecSys 2025, **CCF B**) \| [Paper](https://arxiv.org/abs/2504.05730)
 
+- **Benefit from Rich: Tackling Search Interaction Sparsity in Search Enhanced Recommendation**
+  
+  **Teng Shi**, Weijie Yu, Xiao Zhang, Ming He, Jianping Fan, Jun Xu \|
+  (CIKM 2025, **CCF B**) \| [Paper](https://arxiv.org/abs/2508.04145)
+
 - **Model-Agnostic Causal Embedding Learning for Counterfactually Group-Fair Recommendation**
   
   Xiao Zhang\*, **Teng Shi**\*, Jun Xu, Zhenhua Dong, Jirong Wen (*Co-first authors (student)*) \|
@@ -52,6 +57,11 @@ I welcome opportunities for collaboration or research internships. Feel free to 
   
   Chenglei Shen, Xiao Zhang, **Teng Shi**, Changshuo Zhang, Guofu Xie, Jun Xu \|
   (FCS 2025, **CCF B**) \| [Paper](https://arxiv.org/abs/2407.06083)
+
+- **Bridging Search and Recommendation through Latent Cross Reasoning**
+  
+  **Teng Shi**, Weicong Qin, Weijie Yu, Xiao Zhang, Ming He, Jianping Fan, Jun Xu \|
+  (Arxiv) \| [Paper](https://arxiv.org/abs/2508.04152)
   
 - **QAGCF: Graph Collaborative Filtering for Q&A Recommendation**
   
@@ -62,6 +72,11 @@ I welcome opportunities for collaboration or research internships. Feel free to 
   
   Changshuo Zhang\*, **Teng Shi**\*, Xiao Zhang, Qi Liu, Ruobing Xie, Jun Xu, Jirong Wen \|
   (Arxiv) \| [Paper](https://arxiv.org/abs/2408.08209)
+
+- **StyliTruth: Unlocking Stylized yet Truthful LLM Generation via Disentangled Steering**
+  
+  Chenglei Shen, Zhongxiang Sun, **Teng Shi**, Xiao Zhang, Jun Xu \|
+  (Arxiv) \| [Paper](https://arxiv.org/abs/2508.04530)
 
 - **Think before recommend: Unleashing the latent reasoning power for sequential recommendation**
   
