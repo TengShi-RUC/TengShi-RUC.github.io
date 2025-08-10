@@ -73,7 +73,7 @@ I welcome opportunities for collaboration or research internships. Feel free to 
   Changshuo Zhang\*, **Teng Shi**\*, Xiao Zhang, Qi Liu, Ruobing Xie, Jun Xu, Jirong Wen \|
   (Arxiv) \| [Paper](https://arxiv.org/abs/2408.08209)
 
-- **StyliTruth: Unlocking Stylized yet Truthful LLM Generation via Disentangled Steering**
+- **Balancing Stylization and Truth via Disentangled Representation Steering**
   
   Chenglei Shen, Zhongxiang Sun, **Teng Shi**, Xiao Zhang, Jun Xu \|
   (Arxiv) \| [Paper](https://arxiv.org/abs/2508.04530)
