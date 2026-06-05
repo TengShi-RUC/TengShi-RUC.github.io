@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Teng Shi"
-  avatar           : "images/photo.png"
+  avatar           : "images/tengshi2.png"
   bio              : "Ph.D. Candidate at Gaoling School of Artificial Intelligence, Renmin University of China, focusing on LLM4Rec and Generative Recommendation."
   location         : "Beijing, China"
   employer         :
