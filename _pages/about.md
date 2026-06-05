@@ -27,92 +27,77 @@ I am a fourth-year Ph.D. student at the Gaoling School of Artificial Intelligenc
 - *2022.03 - 2023.03*, Research Intern, JD Inc.
 
 # 📝 Publications 
+(\* denotes Equal Contribution)
+
 - **OneReason Technical Report** \| Core Contributor \| [Paper](https://arxiv.org/pdf/2606.06260)
 
 - **LLaDA-Rec: Discrete Diffusion for Parallel Semantic ID Generation in Generative Recommendation**
   
-  **Teng Shi**, Chenglei Shen, Weijie Yu, Shen Nie, Chongxuan Li, Xiao Zhang, Ming He, Yan Han, Jun Xu \|
-  (Arxiv) \| [Paper](https://arxiv.org/pdf/2511.06254)
+  (Arxiv) \| **Teng Shi**, Chenglei Shen, Weijie Yu, Shen Nie, Chongxuan Li, Xiao Zhang, Ming He, Yan Han, Jun Xu \| [Paper](https://arxiv.org/pdf/2511.06254)
 
 - **UniSAR: Modeling User Transition Behaviors between Search and Recommendation**
   
-  **Teng Shi**, Zihua Si, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Dewei Leng, Yanan Niu, Yang Song \|
-  (SIGIR 2024, **CCF A**) \| [Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657811)
+  (SIGIR 2024, **CCF A**) \| **Teng Shi**, Zihua Si, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Dewei Leng, Yanan Niu, Yang Song \| [Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657811)
 
 - **Retrieval Augmented Generation with Collaborative Filtering for Personalized Text Generation**
   
-  **Teng Shi**, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Yang Song, Han Li \|
-  (SIGIR 2025, **CCF A**) \| [Paper](https://arxiv.org/abs/2504.05731)
+  (SIGIR 2025, **CCF A**) \| **Teng Shi**, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Yang Song, Han Li \| [Paper](https://arxiv.org/abs/2504.05731)
 
 - **Mining Informative Interests via Latent Cross Reasoning for Search Enhanced Recommendation**
   
-  **Teng Shi**, Weicong Qin, Weijie Yu, Xiao Zhang, Ming He, Jianping Fan, Jun Xu \|
-  (SIGIR 2026, **CCF A**) \| [Paper](https://arxiv.org/abs/2508.04152)
+  (SIGIR 2026, **CCF A**) \| **Teng Shi**, Weicong Qin, Weijie Yu, Xiao Zhang, Ming He, Jianping Fan, Jun Xu \| [Paper](https://arxiv.org/abs/2508.04152)
 
 - **Benefit from Rich: Tackling Search Interaction Sparsity in Search Enhanced Recommendation**
   
-  **Teng Shi**, Weijie Yu, Xiao Zhang, Ming He, Jianping Fan, Jun Xu \|
-  (CIKM 2025, **CCF B**) \| [Paper](https://arxiv.org/abs/2508.04145)
+  (CIKM 2025, **CCF B**) \| **Teng Shi**, Weijie Yu, Xiao Zhang, Ming He, Jianping Fan, Jun Xu \| [Paper](https://arxiv.org/abs/2508.04145)
 
 - **GenSAR: Unifying Balanced Search and Recommendation with Generative Retrieval**
   
-  **Teng Shi**, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Yang Song, Enyun Yu \|
-  (RecSys 2025, **CCF B**) \| [Paper](https://dl.acm.org/doi/abs/10.1145/3705328.3748071)
+  (RecSys 2025, **CCF B**) \| **Teng Shi**, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Yang Song, Enyun Yu \| [Paper](https://dl.acm.org/doi/abs/10.1145/3705328.3748071)
 
 - **Model-Agnostic Causal Embedding Learning for Counterfactually Group-Fair Recommendation**
   
-  Xiao Zhang\*, **Teng Shi**\*, Jun Xu, Zhenhua Dong, Jirong Wen (*Co-first authors (student)*) \|
-  (TKDE 2024, **CCF A**) \| [Paper](https://ieeexplore.ieee.org/abstract/document/10598228)
+  (TKDE 2024, **CCF A**) \| Xiao Zhang\*, **Teng Shi**\*, Jun Xu, Zhenhua Dong, Jirong Wen (*Co-first authors (student)*) \| [Paper](https://ieeexplore.ieee.org/abstract/document/10598228)
 
 - **Disentangling from Collaborative and Semantic Views: Graph Collaborative Filtering for Q&A Recommendation**
   
-  Changshuo Zhang\*, **Teng Shi**\*, Xiao Zhang, Yanping Zheng, Ruobing Xie, Qi Liu, Jun Xu, Jirong Wen \|
-  (SIGIR 2026, **CCF A**) \| [Paper](https://arxiv.org/abs/2406.04828)
+  (SIGIR 2026, **CCF A**) \| Changshuo Zhang\*, **Teng Shi**\*, Xiao Zhang, Yanping Zheng, Ruobing Xie, Qi Liu, Jun Xu, Jirong Wen \| [Paper](https://arxiv.org/abs/2406.04828)
 
 - **PrLM: Learning Explicit Reasoning for Personalized RAG via Contrastive Reward Optimization**
 
-  Kepu Zhang\*, **Teng Shi**\*, Weijie Yu, Jun Xu \|
-  (CIKM 2025, **CCF B**) \| [Paper](https://dl.acm.org/doi/abs/10.1145/3746252.3760851)
+  (CIKM 2025, **CCF B**) \| Kepu Zhang\*, **Teng Shi**\*, Weijie Yu, Jun Xu \| [Paper](https://dl.acm.org/doi/abs/10.1145/3746252.3760851)
 
 - **Think before recommend: Unleashing the latent reasoning power for sequential recommendation**
   
-  Jiakai Tang, Sunhao Dai, **Teng Shi**, Jun Xu, Xu Chen, Wen Chen, Wu Jian, Yuning Jiang \|
-  (TKDE, **CCF A**) \| [Paper](https://arxiv.org/abs/2503.22675)
+  (TKDE, **CCF A**) \| Jiakai Tang, Sunhao Dai, **Teng Shi**, Jun Xu, Xu Chen, Wen Chen, Wu Jian, Yuning Jiang \| [Paper](https://arxiv.org/abs/2503.22675)
 
 - **Bringing Model Editing to Generative Recommendation in Cold-Start Scenarios**
   
-  Chenglei Shen, **Teng Shi**, Weijie Yu, Xiao Zhang, Jun Xu\|
-  (SIGIR 2026, **CCF A**) \| [Paper](https://arxiv.org/pdf/2603.14259)
+  (SIGIR 2026, **CCF A**) \| Chenglei Shen, **Teng Shi**, Weijie Yu, Xiao Zhang, Jun Xu\| [Paper](https://arxiv.org/pdf/2603.14259)
 
 - **StyliTruth : Unlocking Stylized yet Truthful LLM Generation via Disentangled Steering**
   
-  Chenglei Shen, Zhongxiang Sun, **Teng Shi**, Xiao Zhang, Jun Xu \|
-  (ICLR 2026, **CCF A**) \| [Paper](https://arxiv.org/abs/2508.04530)
+  (ICLR 2026, **CCF A**) \| Chenglei Shen, Zhongxiang Sun, **Teng Shi**, Xiao Zhang, Jun Xu \| [Paper](https://arxiv.org/abs/2508.04530)
 
 - **Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search**
   
-  Weicong Qin, Yi Xu, Weijie Yu, **Teng Shi**, Chenglei Shen, Ming He, Jianping Fan, Xiao Zhang, Jun Xu \|
-  (EMNLP 2025, **CCF B**) \| [Paper](https://arxiv.org/pdf/2506.14437)
+  (EMNLP 2025, **CCF B**) \|  Weicong Qin, Yi Xu, Weijie Yu, **Teng Shi**, Chenglei Shen, Ming He, Jianping Fan, Xiao Zhang, Jun Xu \| [Paper](https://arxiv.org/pdf/2506.14437)
 
 - **SAQRec: Aligning Recommender Systems to User Satisfaction via Questionnaire Feedback**
   
-  Kepu Zhang, **Teng Shi**, Sunhao Dai, Xiao Zhang, Yinfeng Li, Jing Lu, Xiaoxue Zang, Yang Song, Jun Xu \|
-  (CIKM 2024, **CCF B**) \| [Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679643)
+  (CIKM 2024, **CCF B**) \| Kepu Zhang, **Teng Shi**, Sunhao Dai, Xiao Zhang, Yinfeng Li, Jing Lu, Xiaoxue Zang, Yang Song, Jun Xu \| [Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679643)
 
 - **Test-Time Alignment with State Space Model for Tracking User Interest Shifts in Sequential Recommendation**
   
-  Changshuo Zhang, Xiao Zhang, **Teng Shi**, Jun Xu, Jirong Wen \|
-  (RecSys 2025, **CCF B**) \| [Paper](https://arxiv.org/abs/2504.01489)
+  (RecSys 2025, **CCF B**) \| Changshuo Zhang, Xiao Zhang, **Teng Shi**, Jun Xu, Jirong Wen \| [Paper](https://arxiv.org/abs/2504.01489)
 
 - **A survey of controllable learning: Methods and applications in information retrieval**
   
-  Chenglei Shen, Xiao Zhang, **Teng Shi**, Changshuo Zhang, Guofu Xie, Jun Xu \|
-  (FCS 2025, **CCF B**) \| [Paper](https://arxiv.org/abs/2407.06083)
+  (FCS 2025, **CCF B**) \| Chenglei Shen, Xiao Zhang, **Teng Shi**, Changshuo Zhang, Guofu Xie, Jun Xu \| [Paper](https://arxiv.org/abs/2407.06083)
 
 - **Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation**
   
-  Changshuo Zhang\*, **Teng Shi**\*, Xiao Zhang, Qi Liu, Ruobing Xie, Jun Xu, Jirong Wen \|
-  (Arxiv) \| [Paper](https://arxiv.org/abs/2408.08209)
+  (Arxiv) \| Changshuo Zhang\*, **Teng Shi**\*, Xiao Zhang, Qi Liu, Ruobing Xie, Jun Xu, Jirong Wen \| [Paper](https://arxiv.org/abs/2408.08209)
 
 # 📖 Educations
 - *2022.09 - Present*, PhD Candidate. Gaoling School of Artificial Intelligence, Renmin University of China.
