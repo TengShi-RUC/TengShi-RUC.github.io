@@ -21,17 +21,17 @@ I am a fourth-year Ph.D. student at the Gaoling School of Artificial Intelligenc
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 **OneReason** Technical Report is released on arXiv: https://arxiv.org/abs/2606.06260.
-- *2026.04*: &nbsp;🎉🎉 My first-author paper ‘‘Mining Informative Interests via Latent Cross Reasoning for Search Enhanced Recommendation’’is accepted by **(SIGIR 2026)**!
+- *2026.06*: &nbsp; **[OneReason](https://arxiv.org/abs/2606.06260)** Technical Report is released. .
+- *2026.04*: &nbsp; My first-author paper ‘‘Mining Informative Interests via Latent Cross Reasoning for Search Enhanced Recommendation’’is accepted by **(SIGIR 2026)**!
 
 
 
 # 💻 Internships
 - *2026.06 - Present*, <span style="color: red;">Alistar</span> Algorithm Intern, Alibaba (Taobao & Tmall Group).
 - *2026.03 - 2026.05*, <span style="color: red;">Kstar</span> Algorithm Intern, Kuaishou Inc. (OneRec Team)
-<!-- - *2025.04 - Present*, Research Intern, Lenovo AI Lab
-- *2023.08 - 2025.04*, Research Intern, Kuaishou Technology
-- *2022.03 - 2023.03*, Research Intern, JD.com -->
+- *2025.04 - Present*, Research Intern, Lenovo AI Lab
+- *2023.08 - 2025.04*, Research Intern, Kuaishou Inc.
+- *2022.03 - 2023.03*, Research Intern, JD.com
 
 # 📝 Publications 
 - **LLaDA-Rec: Discrete Diffusion for Parallel Semantic ID Generation in Generative Recommendation**
